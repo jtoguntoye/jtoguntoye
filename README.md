@@ -6,7 +6,7 @@
 Kotlin, Java, Android,Flutter, Firebase, Dagger, JavaScript, SQL
 
 - 🔭 I’m currently working on Android projects with kotlin, Jetpack Compose and Android JetPack libraries  
-- 🌱 I’m currently learning Flutter, and lots of DS and algos   
+- 🌱 I’m currently learning DevOps, and lots of DS and algos   
 - 👯 I’m looking to collaborate on exciting software projects  
 - 💬 Ask me about anything
 - 📫 How to reach me: joeloguntoye@gmail.com
