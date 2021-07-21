@@ -8,6 +8,6 @@ Kotlin, Java, Android, DevOps
 - 🔭 I’m currently working on Android projects with kotlin, Jetpack Compose and Android JetPack libraries  
 - 🌱 I’m currently learning DevOps, and lots of DS and algos   
 - 👯 I’m looking to collaborate on exciting software projects  
-- 💬 Ask me about anything
+- 💬 Ask me about DevOps and Android
 - 📫 How to reach me: joeloguntoye@gmail.com
 
