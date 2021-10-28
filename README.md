@@ -1,4 +1,4 @@
-### Hi, I'm Joel, a DevOps Engineer  👋
+### Hi, I'm Joel, a DevOps Engineer and an Android Developer  👋
 
 <!--
 **jtoguntoye/jtoguntoye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
