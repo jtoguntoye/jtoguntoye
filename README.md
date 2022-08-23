@@ -3,7 +3,7 @@
 <!--
 **jtoguntoye/jtoguntoye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 #### What I do
-DevOps, Kotlin, Java, Android
+DevOps, Python, Kubernetes, Kotlin, Java, Android
 
 - 🔭 I’m currently working on DevOps projects, using tools like Ansible, Jenkins, IAC with Terraform, and AWS    
 - 🌱 I’m currently learning to use containerization technologies like Docker and Kubernetes   
