@@ -5,9 +5,8 @@
 #### What I do
 DevOps, Python, Kubernetes, Kotlin, Java, Android
 
-- 🔭 I’m currently working on DevOps projects, using tools like Ansible, Jenkins, IAC with Terraform, and AWS    
-- 🌱 I’m currently learning to use containerization technologies like Docker and Kubernetes   
-- 👯 I’m looking to collaborate on exciting software projects using DevOps principles 
+- 🔭 I’m currently working on DevOps projects, using tools like Ansible, Jenkins, IAC with Terraform, and AWS, Kubernetes, Docker   
+- 👯 I’m looking to collaborate on exciting software projects using DevOps principles, GitOps
 - 💬 Ask me about DevOps and Android
 - 📫 How to reach me: joeloguntoye@gmail.com
 
